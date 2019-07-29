@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /scripts</title>
+ </head>
+ <body>
+<h1>Index of /scripts</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/">Parent Directory</a>       </td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/p.gif" alt="[   ]"></td><td><a href="3com_cable_modem.pl">3com_cable_modem.pl</a>    </td><td align="right">2017-11-11 12:56  </td><td align="right">197 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Properties.py">Properties.py</a>          </td><td align="right">2017-11-11 12:56  </td><td align="right"> 10K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Properties.pyc">Properties.pyc</a>         </td><td align="right">2017-11-11 12:56  </td><td align="right">7.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="asx-stats.conf">asx-stats.conf</a>         </td><td align="right">2017-11-11 12:56  </td><td align="right">487 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="asx-stats.py">asx-stats.py</a>           </td><td align="right">2017-11-11 12:56  </td><td align="right">9.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/script.gif" alt="[   ]"></td><td><a href="bind-stats.sh">bind-stats.sh</a>          </td><td align="right">2017-11-11 12:56  </td><td align="right">171 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/p.gif" alt="[   ]"></td><td><a href="diskfree.pl">diskfree.pl</a>            </td><td align="right">2017-11-11 12:56  </td><td align="right">256 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/script.gif" alt="[   ]"></td><td><a href="diskfree.sh">diskfree.sh</a>            </td><td align="right">2017-11-11 12:56  </td><td align="right"> 92 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="iaxpeers">iaxpeers</a>               </td><td align="right">2017-11-11 12:56  </td><td align="right"> 12 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/p.gif" alt="[   ]"></td><td><a href="linux_memory.pl">linux_memory.pl</a>        </td><td align="right">2017-11-11 12:56  </td><td align="right">174 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/p.gif" alt="[   ]"></td><td><a href="loadavg.pl">loadavg.pl</a>             </td><td align="right">2017-11-11 12:56  </td><td align="right">401 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/p.gif" alt="[   ]"></td><td><a href="loadavg_multi.pl">loadavg_multi.pl</a>       </td><td align="right">2017-11-11 12:56  </td><td align="right">282 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="mikrotik_multi_cpu.php">mikrotik_multi_cpu.php</a> </td><td align="right">2015-07-23 16:46  </td><td align="right">1.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="mikrotik_ppp_connections.php">mikrotik_ppp_connect..&gt;</a></td><td align="right">2017-11-11 12:56  </td><td align="right">5.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="mikrotik_wireless_interfaces.php">mikrotik_wireless_in..&gt;</a></td><td align="right">2017-11-11 12:56  </td><td align="right">5.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/script.gif" alt="[   ]"></td><td><a href="php-fpm_status.sh">php-fpm_status.sh</a>      </td><td align="right">2017-11-11 12:56  </td><td align="right">385 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/p.gif" alt="[   ]"></td><td><a href="ping.pl">ping.pl</a>                </td><td align="right">2017-11-11 12:56  </td><td align="right">483 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/script.gif" alt="[   ]"></td><td><a href="pppoe_users.sh">pppoe_users.sh</a>         </td><td align="right">2017-11-11 12:56  </td><td align="right">143 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="query_host_cpu.php">query_host_cpu.php</a>     </td><td align="right">2017-11-11 12:56  </td><td align="right">5.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="query_host_partitions.php">query_host_partition..&gt;</a></td><td align="right">2017-11-11 12:56  </td><td align="right">4.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/p.gif" alt="[   ]"></td><td><a href="query_unix_partitions.pl">query_unix_partition..&gt;</a></td><td align="right">2017-11-11 12:56  </td><td align="right">1.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="sql.php">sql.php</a>                </td><td align="right">2017-11-11 12:56  </td><td align="right">604 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ss_fping.php">ss_fping.php</a>           </td><td align="right">2017-11-11 12:56  </td><td align="right">2.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ss_get_by_ssh.php">ss_get_by_ssh.php</a>      </td><td align="right">2017-11-11 12:56  </td><td align="right"> 64K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ss_get_by_ssh.php.bak">ss_get_by_ssh.php.bak</a>  </td><td align="right">2017-11-11 12:56  </td><td align="right"> 63K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ss_get_mysql_stats.php">ss_get_mysql_stats.php</a> </td><td align="right">2017-11-11 12:56  </td><td align="right"> 58K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ss_get_mysql_stats.php.bak">ss_get_mysql_stats.p..&gt;</a></td><td align="right">2017-11-11 12:56  </td><td align="right"> 57K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/p.gif" alt="[   ]"></td><td><a href="ss_get_rds_stats.py">ss_get_rds_stats.py</a>    </td><td align="right">2017-11-11 12:56  </td><td align="right"> 11K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ss_host_cpu.php">ss_host_cpu.php</a>        </td><td align="right">2017-11-11 12:56  </td><td align="right">5.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ss_host_disk.php">ss_host_disk.php</a>       </td><td align="right">2017-11-11 12:56  </td><td align="right">4.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ss_poller.php">ss_poller.php</a>          </td><td align="right">2011-01-09 02:01  </td><td align="right">3.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ss_sql.php">ss_sql.php</a>             </td><td align="right">2017-11-11 12:56  </td><td align="right">1.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ss_vmware_cpu.php">ss_vmware_cpu.php</a>      </td><td align="right">2017-11-11 12:56  </td><td align="right">4.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ss_vmware_disk.php">ss_vmware_disk.php</a>     </td><td align="right">2017-11-11 12:56  </td><td align="right">6.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ss_vmware_mem.php">ss_vmware_mem.php</a>      </td><td align="right">2017-11-11 12:56  </td><td align="right">4.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ss_vmware_net.php">ss_vmware_net.php</a>      </td><td align="right">2017-11-11 12:56  </td><td align="right">6.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/p.gif" alt="[   ]"></td><td><a href="unix_processes.pl">unix_processes.pl</a>      </td><td align="right">2017-11-11 12:56  </td><td align="right">123 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/p.gif" alt="[   ]"></td><td><a href="unix_tcp_connections.pl">unix_tcp_connections.pl</a></td><td align="right">2017-11-11 12:56  </td><td align="right">283 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/p.gif" alt="[   ]"></td><td><a href="unix_users.pl">unix_users.pl</a>          </td><td align="right">2017-11-11 12:56  </td><td align="right">264 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/p.gif" alt="[   ]"></td><td><a href="weatherbug.pl">weatherbug.pl</a>          </td><td align="right">2017-11-11 12:56  </td><td align="right">849 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/p.gif" alt="[   ]"></td><td><a href="webhits.pl">webhits.pl</a>             </td><td align="right">2017-11-11 12:56  </td><td align="right">231 </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+</body></html>
